@@ -1,4 +1,4 @@
-package br.com.leonardomelosantos.divideandconquer;
+package divideandconquerlib;
 
 public class MergeSort {
 	
